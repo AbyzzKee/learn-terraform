@@ -1,7 +1,7 @@
 terraform {
 /*
   cloud {
-   organization = "organization-name"
+   organization = "HCPorg"
 
    workspaces {
      name = "learn-terraform"
